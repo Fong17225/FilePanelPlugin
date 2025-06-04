@@ -1,0 +1,4 @@
+name: FilePanelPlugin
+version: '${project.version}'
+main: firstplugin.filepanelplugin.FilePanelPlugin
+api-version: '1.20'
